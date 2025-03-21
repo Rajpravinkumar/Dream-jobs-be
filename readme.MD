@@ -1,2 +1,2 @@
 job portal
-backend
+ MERN backend
